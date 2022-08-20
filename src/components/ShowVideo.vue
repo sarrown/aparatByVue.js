@@ -53,6 +53,7 @@ export default {
 
 #videoContainer {
   margin-top:50px;
+  z-index: -10;
 }
 
 .divStyle {
